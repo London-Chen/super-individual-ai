@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://my.feishu.cn/share/base/form/shrcn2necKui77m76bXqSHM8fvh",
+      "permanent": false
+    }
+  ]
+}
